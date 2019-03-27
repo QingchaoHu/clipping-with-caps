@@ -39,4 +39,5 @@ clipping planes facing the camera.
 Since the camera position is known it can be calculated in the shader whether a clipping plane is
 facing towards the camera or away from it.
 
+[ref: https://www.zhihu.com/question/266514298](https://www.zhihu.com/question/266514298)
 
